@@ -1,2 +1,2 @@
 # jsPractice11__fetch
-https://github.com/luka1901/jsPractice11__fetch/index.html <br>
+https://luka1901.github.io/jsPractice11__fetch <br>
