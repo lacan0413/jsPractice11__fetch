@@ -8,7 +8,6 @@ function getData() {
             for (let i = 0; i < data.length; i++) {
                 let hako = data[i];
                 dataDiv.innerHTML += "<p>" + hako.userId + ": " + hako.title + "</p>";
-            }
-
+            };
         })
 };
